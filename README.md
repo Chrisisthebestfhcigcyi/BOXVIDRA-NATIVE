@@ -4,4 +4,4 @@
 # Install
 
 
-curl -s -o ~/x https://raw.githubusercontent.com/Chrisisthebestfhcigcyi/BOXVIDRA-NATIVE/install && . ~/x
+curl -s -o ~/x https://raw.githubusercontent.com/Chrisisthebestfhcigcyi/BOXVIDRA-NATIVE/Install && . ~/x
